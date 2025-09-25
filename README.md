@@ -14,8 +14,8 @@ The goal of this project is to help stakeholders:
 
 ## 🗂 Data Used
 - **Dataset:** Product-wise sales, availability, profit, and demand data  
-- **Time Period:** (mention time range if available)  
-- **Size:** (number of rows/columns)
+- **Format:** Excel File(.xlsx)
+- **Size:** 1043 rows * 5 columns
 
 ## 🔑 Key Insights
 - Top 5 products contributing to profit growth
@@ -25,10 +25,12 @@ The goal of this project is to help stakeholders:
 
 ## 🖼 Dashboard Preview
 ![Dashboard Screenshot](https://github.com/AtishayJain0110/PROD.Dashboard/blob/main/Screenshot%202025-09-26%20001346.png)
-                      (
+                      (https://github.com/AtishayJain0110/PROD.Dashboard/blob/main/Screenshot%202025-09-26%20001435.png)
+                      
 ## 🛠 Tools Used
 - **Power BI Desktop** – For building dashboards  
 - **Excel / CSV** – Data source  
-
-
+- **MYSQL Server - Data Source
+  
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
