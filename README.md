@@ -24,8 +24,8 @@ The goal of this project is to help stakeholders:
 - Availability vs demand mismatch detection
 
 ## 🖼 Dashboard Preview
-![Dashboard Screenshot](images/dashboard_preview.png)
-
+![Dashboard Screenshot](https://github.com/AtishayJain0110/PROD.Dashboard/blob/main/Screenshot%202025-09-26%20001346.png)
+                      (
 ## 🛠 Tools Used
 - **Power BI Desktop** – For building dashboards  
 - **Excel / CSV** – Data source  
